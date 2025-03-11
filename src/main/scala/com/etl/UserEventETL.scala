@@ -81,7 +81,7 @@ object UserEventETL {
     // 5. 배치 장애시 복구를 위한 체크포인트 설정
     val dfWithCheckPoint = dfWithNewSession.drop("prev_event_time", "prev_session_id").checkpoint()
 
-    // 3. parquet, snappy처리로 저장 Action
+    // 3. parquet, snappy처리 및 파티션 저장 Action
     dfWithCheckPoint.write
       .partitionBy("year","month", "day")
       .format("parquet")
