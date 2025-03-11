@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventETL$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventETL$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventETL$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventETL$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventETL$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes.bak[0m

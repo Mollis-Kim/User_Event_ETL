@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\wau_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl\UserEventETL$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl\UserEventETL$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl\UserEventETL$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl\UserEventETL$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl\UserEventETL$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl\UserEventETL$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl\UserEventETL$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl\UserEventETL$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl\UserEventETL$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl\UserEventETL$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl\UserEventETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl\UserEventETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\etl\UserEventETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\himuc\OneDrive\바탕 화면\WAU\target\scala-2.12\classes\com\etl\UserEventETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

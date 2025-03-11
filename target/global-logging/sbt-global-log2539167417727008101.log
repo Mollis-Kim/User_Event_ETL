@@ -1,0 +1,8 @@
+[debug] > Exec(hello, None, None)
+[error] Not a valid command: hello (similar: shell, help, oldshell)
+[error] Not a valid project ID: hello
+[error] Expected ':'
+[error] Not a valid key: hello (similar: shellPrompt)
+[error] hello
+[error]      ^
+[debug] > Exec(idea-shell, None, None)
